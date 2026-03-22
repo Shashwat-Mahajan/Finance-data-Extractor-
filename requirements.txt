@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+langchain
+langchain-groq
+langchain_core.output_parsers
+langchain_core.output_parsers
+langchain_core.prompts
+pandas
